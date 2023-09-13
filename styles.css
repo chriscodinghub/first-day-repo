@@ -1,0 +1,25 @@
+body {
+    background-color: aqua;
+    color: #d81313;
+}
+
+#bio {
+    background-color: rgb(93, 250, 31);
+    color: #020202;
+    padding: 50px;
+}
+ #bio img {
+    height: 250px;
+    width: auto;
+ }
+
+ p {
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+ }
+ #contact {
+    background-color: #d81313;
+    color: #020202;
+    padding: 50px, 50px, 50px, 50px
+ }
