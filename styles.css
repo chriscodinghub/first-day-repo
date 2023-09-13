@@ -19,7 +19,27 @@ body {
     font-size: 20px;
  }
  #contact {
-    background-color: #d81313;
+    font-style: oblique;
     color: #020202;
-    padding: 50px, 50px, 50px, 50px
+    border: #020202; width: 400px; height: auto; box-shadow: #d81313;
+ }
+ #title {
+   color: orange;
+   border: width 10px; font-style: italic; color: orange;
+
+ }
+ #Email {
+   background-color: red;
+   padding: 50px, 50px, 50px, 50px;
+   color: black;
+ }
+ #Github {
+   background-color: white;
+   padding: 50px, 50px, 50px, 50px;
+   color: black;
+ }
+ #Portfolio {
+   background-color: blue;
+   padding: 50px, 50px, 50px, 50px;
+   color: black;
  }
